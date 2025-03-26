@@ -13,7 +13,7 @@ _All conversion tools you need in one lightweight app._
 ## Key Features
 
 - **Wide Range of Conversions:**  
-  Easily convert temperature, volume, length, mass, and more specialized engineering units like for example load bearing for building engineering , Strees Calculator for Mechanical engineering , Ohm's Law for Computer/Electrical engineering.
+  Easily convert temperature, volume, length, mass, and more specialized engineering units like for example load bearing for building engineering , Stress Calculator for Mechanical engineering , Ohm's Law for Computer/Electrical engineering.
 - **Lightweight & Fast:**  
   Optimized for quick, accurate results without unnecessary overhead.
 - **Modern, Intuitive UI:**  
@@ -25,10 +25,10 @@ _All conversion tools you need in one lightweight app._
 
 ## Screenshots
 
-**[View iPhone App Screenshots](https://github.com/IrfanUruchi/UnitEngConverter/tree/main/Images/iPhone)**
+- **[View iPhone App Screenshots](https://github.com/IrfanUruchi/UnitEngConverter/tree/main/Images/iPhone)**
 
 
-**[View iPad and Mac App Screenshots](https://github.com/IrfanUruchi/UnitEngConverter/tree/main/Images/iPad%20and%20Mac)**
+- **[View iPad and Mac App Screenshots](https://github.com/IrfanUruchi/UnitEngConverter/tree/main/Images/iPad%20and%20Mac)**
 
 ---
 
